@@ -1,9 +1,9 @@
-// Basic Hello Earth program
+// Basic Hello World program
 
 #include <cstdio>
 
 int main() {
-	printf("Hello Earth!");
+	printf("Hello World!");
 
 	return 0;
 }
