@@ -1,10 +1,5 @@
 ##### Windows
 
-# Vs code
-.sln
-.vcxproj
-.vcxproj.filters
-
 # Windows thumbnail cache files
 Thumbs.db
 Thumbs.db:encryptable
